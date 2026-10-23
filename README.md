@@ -22,25 +22,14 @@ I do not write production code. I wrote the specs, ran Claude Code and Codex as 
 I weighed 7 business-model options against an evidence log. I dropped designer services when interviews showed designers would not accept delayed commission payouts. The harder problem was supply: Pakshara needed presses with good quality at low order quantities, and there were too few. Each way forward needed capital, a team and industry experience I didn't have, so I wound it down in September 2026.
 
 ## Screenshots
-**Home**
+**Rate calculator**
 
-![Home](images/home.jpg)
-
-**Browse**
-
-![Browse](images/browse.jpg)
-
-**Box builder**
-
-![Builder](images/builder.jpg)
+![Rate calculator](images/rate-calculator.jpg)
 
 **Dieline engine, 3D fold preview**
 
 ![Dieline](images/dieline-3d.jpg)
 
-**Rate calculator**
-
-![Rate calculator](images/rate-calculator.jpg)
-
+The full product is live at [pakshara.in](https://www.pakshara.in).
 
 More: [portfolio](https://devgautam-portfolio.notion.site/Dev-Gautam-c275edeb581e4c99bf7d45cbe57649c6) · devgautam.iitkgp@gmail.com
